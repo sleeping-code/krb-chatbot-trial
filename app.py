@@ -4,7 +4,7 @@ import streamlit as st
 from bot import build_agent
 
 # Judul
-st.title("Bo Bots")
+st.title("KRB ChatBot🌿")
 
 # Session state
 if "agent" not in st.session_state:
